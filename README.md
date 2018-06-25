@@ -23,14 +23,24 @@ Are there degrees of reward given to Christians in heaven?
 ### Views from Major Scholars/Theologians
 #### I. Grudem - Yes, there are degrees of reward but don't misunderstand.
 
-*Systematic Theology*, Wayne Grudem, page 1145:
+Wayne Grudem, *Systematic Theology*, 1145:
 
 "Even though there will be degrees of reward in heaven, the joy of each person will be full and complete for eternity. If we ask how this can be when there are different degrees of reward, it simply shows that our perception of happiness is based on the assumption that happiness depends on what we posses or the status or power have. In actuality, however, our true happiness consists in delighting in God and rejoicing in the status and recognition that he has given us."
 
 "It would be morally and spiritually beneficial for us to have a greater consciousness of this clear New Testament teaching on degrees of heavenly reward. Rather than making us competitive with one another, it would cause us to help and encourage one another that we all may increase our heavenly reward, for God has an infinite capacity to bring blessing to us all, and we are all members of one another (see 1 Corinthians 12:26-27)"
 
-#### II. Grudem - Yes, there are degrees of reward but don't misunderstand.
+#### II. Erickson - Yes? But unclear how this will work in heaven.
+Millard J. Erickson, *Christian Theology* (Third Edition), 1132-1133
 
+"The differing rewards or degrees of satisfaction in heaven are usually pictured in terms of objective circumstances. For instance, we might supposed that a very faithful Christian will be given a large room in the Father's house; a less faithful believer will receive a smaller room. But if this is the case, would not the joy of heaven be reduced by one's awareness of the differences and the constant reminder that one might have been more faithful? In addition, the few pictures we do have of life in heaven evidence no real difference: all are worshiping, judging, serving."
+
+[Erickson notes that the following is speculation]
+
+"May it not be that the difference in the rewards lies not in the external or objective circumstances, but in the subjective awareness or appreciation of those circumstances? Thus all would engage in the same activity, for example, worship, but some would enjoy it much more than others...No one will be aware of the differences in range of enjoyment, and thus there will be no dimming of the perfection of heaven by regret over wasted opportunities [Nels Ferré, *The Christian Understanding of God*, 233-234]"
+
+### Personal thoughts
+
+I think Grudem offers solid applicable wisdom on this subject. We should desire to encourage and spur one another on in our faith, bearing fruit and bringing glory to God. While we may not understand how varying degrees of rewards will manifest themselves in heaven, we can find meaning in storing up treasure in heaven. "For where your treasure is, there your heart will be also." [Matthew 6:21]
 
 ## 2. Understanding difference between temptation and sin
 Matthew 5:21-30
