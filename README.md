@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+This site is meant to list questions posed by students and give Biblical answers - citing Bible references first, trusted theologians and scholars second, and lastly some of my own views.
 
-You can use the [editor on GitHub](https://github.com/theobotics/misc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Index:
+1. Degrees of reward in heaven
+2. Understanding difference between temptation and sin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. Degrees of Reward in Heaven
+Are there degrees of reward given to Christians in heaven?
 
-### Markdown
+### Where is it discussed in the Bible
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Starter verses:
+- 1 Corinthians 3:12-15
+- 2 Corinthians 5:10
+- Luke 19:11-27
 
-```markdown
-Syntax highlighted code block
+#### Extended Study verses:
+- Daniel 12:2-3
+- Matthew 6:10, 20-21, 19:21
+- Luke 6:22-23, 32, 42-48; 14:13-14
+- Many more in 1 Corinthians, Galatians, Ephesians, Philippians...
 
-# Header 1
-## Header 2
-### Header 3
+### Views from Major Scholars/Theologians
+#### I. Grudem - Yes, there are degrees of reward but don't misunderstand.
 
-- Bulleted
-- List
+*Systematic Theology*, Wayne Grudem, page 1145:
 
-1. Numbered
-2. List
+"Even though there will be degrees of reward in heaven, the joy of each person will be full and complete for eternity. If we ask how this can be when there are different degrees of reward, it simply shows that our perception of happiness is based on the assumption that happiness depends on what we posses or the status or power have. In actuality, however, our true happiness consists in delighting in God and rejoicing in the status and recognition that he has given us."
 
-**Bold** and _Italic_ and `Code` text
+"It would be morally and spiritually beneficial for us to have a greater consciousness of this clear New Testament teaching on degrees of heavenly reward. Rather than making us competitive with one another, it would cause us to help and encourage one another that we all may increase our heavenly reward, for God has an infinite capacity to bring blessing to us all, and we are all members of one another (see 1 Corinthians 12:26-27)"
 
-[Link](url) and ![Image](src)
-```
+#### II. Grudem - Yes, there are degrees of reward but don't misunderstand.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 2. Understanding difference between temptation and sin
+Matthew 5:21-30
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theobotics/misc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Coming Soon...
